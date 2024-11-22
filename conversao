@@ -1,0 +1,6 @@
+times_paulistas = {'Palmeiras','Corinthians', 'São Paulo', 'Santos'}
+print(times_paulistas)
+print(type(times_paulistas))
+
+print(list(times_paulistas))
+print(type(list(times_paulistas)))
